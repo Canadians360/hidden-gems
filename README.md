@@ -1,0 +1,2 @@
+# hidden-gems
+Overview Files Images Relations Settings Following  Unfavorite A modpack for those who have been sitting around in 1.7.10 for too long. This modpack focuses on new and reworked mods most older modpacks didn't have while trying to highlight lesser used mods of the 1.12.2 generation.   It's a challenging pack with rougher mobs and rougher dimensions outside of the overworld to keep things interesting, but nothing insurmountable. There is also a slew of decorative/base building mods to enjoy.
